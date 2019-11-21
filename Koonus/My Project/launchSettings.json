@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Koonus": {
+      "commandName": "Project",
+      "commandLineArgs": "-r 10 -h 10"
+    }
+  }
+}

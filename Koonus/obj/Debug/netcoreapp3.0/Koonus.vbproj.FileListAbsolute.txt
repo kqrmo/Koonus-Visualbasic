@@ -1,0 +1,11 @@
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.exe
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.deps.json
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.runtimeconfig.json
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.runtimeconfig.dev.json
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.dll
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\bin\Debug\netcoreapp3.0\Koonus.pdb
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\obj\Debug\netcoreapp3.0\Koonus.AssemblyInfoInputs.cache
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\obj\Debug\netcoreapp3.0\Koonus.AssemblyInfo.vb
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\obj\Debug\netcoreapp3.0\Koonus.dll
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\obj\Debug\netcoreapp3.0\Koonus.pdb
+C:\Users\karmo.tutk\Documents\Visual Studio Tööd\Koonus\Koonus\obj\Debug\netcoreapp3.0\Koonus.vbprojAssemblyReference.cache
