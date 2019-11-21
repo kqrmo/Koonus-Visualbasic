@@ -3,12 +3,12 @@
 	Private cmdPars As String()
 	Private argsTotal As Integer
 	Private argsOK As Boolean = False
-	Private volume As Integer
-	Private hypotenuse As Integer
-	Private bottomarea As Integer
-	Private lateralarea As Integer
-	Private area As Integer
-	Private bottomcircum As Integer
+	Private volume As Double
+	Private hypotenuse As Double
+	Private bottomarea As Double
+	Private lateralarea As Double
+	Private area As Double
+	Private bottomcircum As Double
 
 	Public Sub New(args As String())
 		argsTotal = args.Count
